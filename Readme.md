@@ -19,7 +19,7 @@ The complete description is available in our online documentation: [Implement a 
 * [Employee.cs](CS/EF/SecurityUserEF/SecurityUserEF.Module/BusinessObjects/Employee.cs)
 * [EmployeeRole.cs](CS/EF/SecurityUserEF/SecurityUserEF.Module/BusinessObjects/EmployeeRole.cs)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=xaf-how-to-implement-a-security-system-user-based-on-an-existing-business-class&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=xaf-how-to-implement-a-security-system-user-based-on-an-existing-business-class&~~~was_helpful=no)
 
