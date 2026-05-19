@@ -21,7 +21,6 @@ public class SecurityUserEFWindowsFormsApplication : WinApplication {
 		SplashScreen = new DXSplashScreen(typeof(XafSplashScreen), new DefaultOverlayFormOptions());
         ApplicationName = "SecurityUserEF";
         CheckCompatibilityType = DevExpress.ExpressApp.CheckCompatibilityType.DatabaseSchema;
-        UseOldTemplates = false;
         DatabaseVersionMismatch += SecurityUserEFWindowsFormsApplication_DatabaseVersionMismatch;
         CustomizeLanguagesList += SecurityUserEFWindowsFormsApplication_CustomizeLanguagesList;
     }
